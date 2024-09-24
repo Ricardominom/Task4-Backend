@@ -13,7 +13,7 @@ app.use(bodyParser.json());
 const db = mysql.createConnection({
     host: 'bhk95na7hbuhfge732zp-mysql.services.clever-cloud.com',
     user: 'urwwjidkpxwmlu7l', 
-    password: 'Pianos10', 
+    password: '8X3Y17NiKwOcKF23yFqx', 
     database: 'myapp',
 });
 
